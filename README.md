@@ -1,5 +1,7 @@
 # 2022webprogramming
 
+# 3주차
+내용: jsp 환경 기본 세팅 및 Study Community 로그인 UI 폼태그 생성
 
 # 2주차
 
